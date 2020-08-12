@@ -9,6 +9,6 @@ Use this crypter for any utilities.
 
 To use it, simply download the .exe file and start it. Write the name of your code file and the name of the new file (Where will be the binary code)
 
-To create a executable compiled file, simply right .exe at the end of the new binary file and run it.
+To create an executable compiled file, simply write .exe at the end of the new binary file and run it.
 
 -Mokmi
